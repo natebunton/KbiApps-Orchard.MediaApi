@@ -1,0 +1,9 @@
+﻿Name: Media API
+AntiForgery: enabled
+Author: KBI Apps
+Website: http://kbiapps.com
+Version: 1.0.0
+OrchardVersion: 1.9
+Description: Web Api exposing media files
+FeatureDescription: Web Api exposing media files
+Category: KBI Apps
